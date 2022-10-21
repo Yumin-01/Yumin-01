@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
 </div>
 
-<h4>Where to find me</h4>
+<h4>Where to find me📫</h4>
 <div>
   <a href="https://github.com/Yumin-01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
